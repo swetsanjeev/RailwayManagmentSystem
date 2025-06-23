@@ -6,18 +6,18 @@ A desktop-based **Railway Management System** built with **Python (Tkinter)** fo
 
 ## 📸 Screenshots
 
-### 🔐 Login Interface
-![Login](./images/Screenshot%202025-06-23%20213025.png)
+### 🔐 Login Interface  
+![Login](Screenshots/Screenshot%202025-06-23%20213025.png)
 
 ---
 
-### 🖥️ Main Interface – Full View
-![Main Interface](./images/Screenshot%202025-06-23%20213156.png)
+### 🖥️ Main Interface – Full View  
+![Main Interface](Screenshots/Screenshot%202025-06-23%20213156.png)
 
 ---
 
-### 📋 Main Interface – Top Controls
-![Top Controls](./images/Screenshot%202025-06-23%20213214.png)
+### 📋 Main Interface – Top Controls  
+![Top Controls](Screenshots/Screenshot%202025-06-23%20213214.png)
 
 ---
 
